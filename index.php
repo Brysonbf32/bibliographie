@@ -1,0 +1,10 @@
+<?php
+include('config/databases.php');
+error_reporting(0);
+session_start();
+$admincokies=$_COOKIE['alluser_email'];
+$idsessio=$_SESSION['id_utilis'];
+if(isset($my_bd)){
+    require('view/index.view.php');
+}
+?>

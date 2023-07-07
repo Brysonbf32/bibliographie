@@ -1,0 +1,257 @@
+/*** **************************Bienvenu dans notre page d'acceuil***************************************************/
+body{
+    font-family:sans-serif;
+}
+.titremenu2{
+    color: white!important;
+    font-size: 25px!important;
+    font-weight: bold;
+}
+.bannerlob{
+    background-color: #00305B!important;
+}
+.btn_connecte{
+    color: white!important;
+    font-weight: bold!important;
+}
+.modal-footer{
+    border: 1px solid white!important;;
+}
+.modal-header{
+    border: 1px solid white!important;;
+
+}
+.butonconnect{
+    border-color: white!important;
+}
+.line_color{
+    color: white!important;
+    font-weight: bold;
+}
+.line_color:hover{
+    color: #41B7C4!important;
+}
+.butonconnect:hover{
+    background-color: #49CEFF!important;
+}
+.fom_input{
+    width: 100%!important;
+    border: 1px solid #676767!important;
+    font-size: 13px!important;
+    padding: 2.5%!important;
+  }
+  .fom_input:focus{
+    box-shadow: none!important;
+    border-color: #676767!important;
+    border: 1px solid #676767!important;
+
+  }
+  .btn_closes{
+    border: none!important;
+    background-color: #676767!important;
+    padding: 0.8%;
+    color: white!important;
+    border-radius: 4px!important;
+    width: 10%!important;
+  }
+  .btn_inscrit{
+    border: none!important;
+    background-color: #00305B!important;
+    padding: 0.8%;
+    color: white!important;
+    border-radius: 4px!important;
+  }
+.navbar-brand{
+    color: #49CEFF!important;
+    font-size: 25px!important;
+    font-weight: bold;}
+.zone_banniere{
+    width:100%;
+    height:80vh;
+    background-image: url(../assets/images/t2.jpg);
+    background-size:cover;
+}        
+.zone_bannieredomaine{
+    width:100%;
+    height:30vh;
+    background-image: url(../assets/images/t2.jpg);
+    background-size:cover;
+}
+.zone_contenu{
+    height:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenu{
+    text-align: center;
+}
+
+.contenu h1{
+    font-size:100px;
+    color:#fff;
+}
+
+.contenu p{
+    font-size:30px;
+    color:#ddd;
+}
+
+
+
+
+.coloffre{
+    background-color: #EAF4F6!important;
+    padding: 10px;
+   
+}
+.offre{
+    font-size: 40px;
+    color: #00305B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.squara_icon{
+    font-size: 15px;
+    border: transparent!important;
+    border-color: transparent!important;
+    color: #41B7C4;
+    background-color: #41B7C4;
+}
+.titre_offrons{
+    color: #00305b;
+    font-weight: bold;
+}
+.para_offrons{
+    color: black;
+    font-size: 15px;
+    margin-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bgcolorse{
+    background-color: #FFFFFF;
+
+}
+.btn_vers{
+    background: #FFFFFF!important;
+    border: none!important;
+    color: #00305B!important;
+    border: 1px solid #00305B!important;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.btn_vers:hover{
+    color: #FFFFFF!important;
+    font-size: 15px;
+    background: #00305B!important;
+    transition: 0.4s;
+    font-weight: bold;
+}
+.projet_titre{
+    color: #00305B;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.card_titre{
+    font-size: 20px!important;
+    font-weight: bold;
+    color: #00305B!important;
+}
+.nombreproje{
+    color: #00305B!important;
+    font-weight: bold;
+    font-size: 15px!important;
+}
+.savoir_btn{
+    background-color: #00305B!important;
+    text-decoration: none!important;
+    font-weight: bold!important;
+    border: 1px solid #00305B;
+    border-radius: 5px;
+
+}
+.a_sav{
+    color:#fff!important;
+    font-size: 13px;
+}
+.a_sav:hover{
+    color:#fff!important;
+
+}
+.card_para{
+    font-size: 15px;
+    color: #303030;
+}
+.nombrpro{
+    font-size: 17px!important;
+    font-weight: bold;
+    color: #00305B!important;
+}
+.footer_web{
+    background-color: #00305B;
+    width: auto;
+}
+.footer_title_left{
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.footer_title_right{
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans
+}
+.footer_title_right a{
+    color: #FFFFFF!important;
+    text-decoration: none;
+    font-size: 15px;
+}
+.footer_title_right a:hover{
+    color: rgb(14, 14, 14)!important;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+/**********CSS de la page des projets du domaine informatique ************/
+ a:hover{
+    transition: 0.3s;
+    text-decoration: none;
+    color: #00305B!important;
+    
+   
+}
+ a{
+    text-decoration: none!important;
+    color: #000!important;
+    
+    
+}
+.card_titre1{
+    font-size: 13px;
+}
+.image_carg{
+    height: 250px!important;
+    width: 80%;
+
+}
+.imag_card1{
+    height: 160px!important;
+}
+.tittre_etu{
+    font-size: 13px;
+    font-weight: bold;
+}
+.button_savoir{
+    width: 100%;
+    background-color: #00305B!important;
+    border: #00305B!important;
+    font-size: 15px!important;
+}
